@@ -24,10 +24,10 @@ I'm a second-year computer science student at Ben Gurion University in Israel. M
 
 ## Connect with Me
 
-Let's connect on LinkedIn! 
+Let's connect on LinkedIn!
+www.linkedin.com/in/nitai-edelberg
 
 
-[<img src="https://linkedin-github-readme.onrender.com/api/render/Nitai%20Edelberg/Software%20Engineer/CS%20student/bachelors%20degree/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4E03AQHMS1bZ-ZylkQ%2Fprofile-displayphoto-shrink_400_400%2F0%2F1714059222992%3Fe%3D1721865600%26v%3Dbeta%26t%3DjSLWw-1Fajrr30GCvh8rf6EvuwTLfW6h-yN2rRsSIpo" width="200">](https://linkedin-github-readme.onrender.com/api/render/Nitai%20Edelberg/Software%20Engineer/CS%20student/bachelors%20degree/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD4E03AQHMS1bZ-ZylkQ%2Fprofile-displayphoto-shrink_400_400%2F0%2F1714059222992%3Fe%3D1721865600%26v%3Dbeta%26t%3DjSLWw-1Fajrr30GCvh8rf6EvuwTLfW6h-yN2rRsSIpo)
 
 
 Feel free to explore my repositories, contribute, or just say hello 🚀
