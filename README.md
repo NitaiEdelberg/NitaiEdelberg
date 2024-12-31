@@ -21,6 +21,7 @@ I'm a Third-year computer science student at Ben Gurion University in Israel. My
 - Project 1: A C++-based program app for managing orders in a Warehouse.
 - Project 2: A Java set game using the Multi-threading method.
 - Project 3: Tftp Server-Client program.
+- project 4 : (In Process) Python AI Tetris solver using pygame and ec-kity library
 - C Projects:
   
     Project 1: Linux-shell Encoder
