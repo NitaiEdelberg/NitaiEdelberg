@@ -1,43 +1,79 @@
-# Hi there! 👋 I'm Nitai Edelberg
+<h1 align="center">Hi there, I’m Nitai 👋</h1>
 
-## CS Student - Software Engineer
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
-I'm a Third-year computer science student at Ben Gurion University in Israel. My passion is algorithms, solving problems, and programming . I've worked on projects in Java, C++, and even set up a TFTP server and client. Here's a bit more about me:
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480"></p>
 
-## Languages and Tools
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+%7C+Software+Engineer;Algorithms+%26+AI;Backend+%26+DevOps&center=true&width=500&height=40">
+</p>
 
-- **Java**: My go-to language. I used it to develop a Multi-threading paradigm and to work with servers. I find it ideal for OOP programming 
-- **Python**: I've learned python by my own, and experinced in bulding a web app with Django and playing with ML libraries. I enjoy progrming in python becouse it offers many useful libraries and frameworks and the syntax is much more english-like
-- **C++**: I enjoy the low-level control and performance optimization it offers.
-- **C**: I experinced in many linux apps like anti-virus,encoder, and linux shells to get to know better low-level computing concepts and hardware. worked also with assembly language
-- **TypeScript**: I've dabbled in TypeScript, especially for functional development.
-- **Git**: I co-worked with friends on projects.
-- **Linux**: I'm comfortable working with Linux, especially for C projects.
-- **Functional Programming**: I love exploring functional paradigms, and TypeScript lets me do that.
+---
 
-## Projects
+### 👨‍💻 About Me
+- 🎓 **B.Sc. Computer Science** (final semester) – Ben‑Gurion University, Israel  
+- 💼 **Full‑stack intern** @ **Texperience** – Node.js, TypeScript, PostgreSQL, GCP  
+- 🧠 Love turning algorithms into real‑world systems (and vice versa)
+- 🚀 Built an AI‑driven **Tetris solver** powered by evolutionary search—see it [here](https://github.com/NitaiEdelberg/Ai-Tetris) 
+- ⚙️ Comfortable from **low‑level C/C++** to **cloud‑native backends**
+- 🔐 Researching **chatbot jailbreak & prompt‑injection defenses** and building an API service that detects and blocks malicious prompts
+- 🕵️‍♂️ Past: built an RFC‑compliant **TFTP server/client**, a **multithreaded Set game**,  
+  a **warehouse order manager**, and some Linux utilities (shell encoder, antivirus)
 
-- Project 1: A C++-based program app for managing orders in a Warehouse.
-- Project 2: A Java set game using the Multi-threading method.
-- Project 3: Tftp Server-Client program.
-- project 4 : (In Process) Python AI Tetris solver using pygame and ec-kity library
-- C Projects:
-  
-    Project 1: Linux-shell Encoder
-    Project 2: working Anti-Virus based on signituers files
+---
 
-## Connect with Me
+### 🛠 Tech Stack
+<p>
+  <img alt="Java"       src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img alt="C++"        src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C"          src="https://img.shields.io/badge/C-333?style=flat&logo=c&logoColor=A8B9CC"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img alt="GCP"        src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+  <img alt="Linux"      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
 
-Let's connect on LinkedIn!
-www.linkedin.com/in/nitai-edelberg
+---
 
+### 🌟 Featured Projects
+| Project | Stack | Quick Take |
+|---------|-------|-----------|
+| **AI‑Tetris** | Python | Evolutionary AI that plays Tetris (Pygame + EC‑Kity) |
+| **Texperience Client UI** <br />(private repo) | TypeScript · React · PostgreSQL | Web dashboard that lets customers run & inspect Texperience optimization models on GCP |
+| **TFTP Server / Client** | Java | Multi‑client TFTP implementation with uploads, downloads & live BCAST notifications (thread‑per‑client server) |
+| **Multithreaded Set Game** | Java | Fast multiplayer solver using thread pools & locks |
+| **Chatbot Jailbreak‑Guard API** <br />(private repo) | Python · FastAPI · MongoDB | REST service that detects & blocks prompt‑injection attacks in real time |
+| **Nitai’sWebsite** | JavaScript · Node.js · MongoDB | Personal site & REST API playground for sharpening full‑stack skills |
+| **Warehouse‑Manager** | C++ | CLI tool for tracking orders & inventory with STL containers |
+| **Basic Shell Encoder** | C | Linux command‑line utility for encoding/decoding files |
+| **Signature‑based Antivirus** | C | Detects and neutralizes samples via signature scan |
 
+> Explore everything in the **[repositories tab](https://github.com/NitaiEdelberg?tab=repositories)**.
 
+---
 
-Feel free to explore my repositories, contribute, or just say hello - I'm ready to help in Open-Sourse repositories issues if you have some 🚀
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NitaiEdelberg&show_icons=true&count_private=true&hide=stars&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitaiEdelberg&layout=compact&langs_count=8&hide=shaderlab" height="150">
+</p>
 
-<!---
-NitaiEdelberg/NitaiEdelberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🤝 Let’s Connect
+<p>
+  <a href="https://www.linkedin.com/in/nitai-edelberg/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nitai%20Edelberg-blue?logo=linkedin&style=flat">
+  </a>
+  &nbsp;
+  <a href="mailto:nitai.edel@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-nitai.edel@gmail.com-D14836?logo=gmail&logoColor=white&style=flat">
+  </a>
+</p>
+
+> _Open to junior backend / algorithmic roles – drop me a note!_
+
+---
+<!--
+✨ Special repository: this README appears on my GitHub profile.
+-->
