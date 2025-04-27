@@ -12,7 +12,8 @@
 - 🎓 **B.Sc. Computer Science** (final semester) – Ben‑Gurion University, Israel  
 - 💼 **Full‑stack intern** @ **Texperience** – Node.js, TypeScript, PostgreSQL, GCP  
 - 🧠 Love turning algorithms into real‑world systems (and vice versa)
-- 🚀 Built an AI‑driven **Tetris solver** powered by evolutionary search—see it [here](https://github.com/NitaiEdelberg/Ai-Tetris) 
+- 🚀 Built an AI‑driven **Tetris solver** powered by evolutionary search—see it [here](https://github.com/NitaiEdelberg/Ai-Tetris)
+- 🛠️ Created a personal **Movie Watchlist** site with rating and notes — check it out live [here](https://nitaiswebsite.onrender.com) 🚀
 - ⚙️ Comfortable from **low‑level C/C++** to **cloud‑native backends**
 - 🔐 Researching **chatbot jailbreak & prompt‑injection defenses** and building an API service that detects and blocks malicious prompts
 - 🕵️‍♂️ Past: built an RFC‑compliant **TFTP server/client**, a **multithreaded Set game**,  
@@ -43,7 +44,7 @@
 | **TFTP Server / Client** | Java | Multi‑client TFTP implementation with uploads, downloads & live BCAST notifications (thread‑per‑client server) |
 | **Multithreaded Set Game** | Java | Fast multiplayer solver using thread pools & locks |
 | **Chatbot Jailbreak‑Guard API** <br />(private repo) | Python · FastAPI · MongoDB | REST service that detects & blocks prompt‑injection attacks in real time |
-| **Nitai’sWebsite** | JavaScript · Node.js · MongoDB | Personal site & REST API playground for sharpening full‑stack skills |
+| **Nitai’sWebsite** <br />[Live Demo](https://nitaiswebsite.onrender.com) | JavaScript · Node.js · MongoDB | Personal site & REST API playground for sharpening full‑stack skills |
 | **Warehouse‑Manager** | C++ | CLI tool for tracking orders & inventory with STL containers |
 | **Basic Shell Encoder** | C | Linux command‑line utility for encoding/decoding files |
 | **Signature‑based Antivirus** | C | Detects and neutralizes samples via signature scan |
