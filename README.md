@@ -13,11 +13,13 @@
 - 💼 **Full‑stack intern** @ **Texperience** – Node.js, TypeScript, PostgreSQL, GCP  
 - 🧠 Love turning algorithms into real‑world systems (and vice versa)
 - 🚀 Built an AI‑driven **Tetris solver** powered by evolutionary search—see it [here](https://github.com/NitaiEdelberg/Ai-Tetris)
-- 🛠️ Created a personal **Movie Watchlist** site with rating and notes — check it out live [here](https://nitaiswebsite.onrender.com) 🚀
+- 🛠️ Created a personal **Movie Watchlist** website with rating and notes and AI suggestions (the project is on going) — check it out live [here](https://nitaiswebsite.onrender.com) 🚀
 - ⚙️ Comfortable from **low‑level C/C++** to **cloud‑native backends**
 - 🔐 Researching **chatbot jailbreak & prompt‑injection defenses** and building an API service that detects and blocks malicious prompts
 - 🕵️‍♂️ Past: built an RFC‑compliant **TFTP server/client**, a **multithreaded Set game**,  
   a **warehouse order manager**, and some Linux utilities (shell encoder, antivirus)
+- 👨‍🔧 Recently started learning **.NET and C#** by building a hands-on Web API project – see [MiniTaskManager](https://github.com/NitaiEdelberg/Mini-task-manager-dotnet)
+
 
 ---
 
@@ -27,11 +29,17 @@
   <img alt="Python"     src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img alt="C++"        src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img alt="C"          src="https://img.shields.io/badge/C-333?style=flat&logo=c&logoColor=A8B9CC"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img alt="Node.js"    src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img alt=".NET"        src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img alt="C#"          src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img alt="GCP"        src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img alt="Linux"      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
   <img alt="Git"        src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+
 </p>
 
 ---
