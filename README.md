@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Sc. Computer Science** (final semester) – Ben‑Gurion University, Israel  
+- 🎓 **B.Sc. Computer Science** – Ben‑Gurion University, Israel  
 - 💼 **Full‑stack intern** @ **Texperience** – Node.js, TypeScript, PostgreSQL, GCP  
 - 🧠 Love turning algorithms into real‑world systems (and vice versa)
 - 🚀 Built an AI‑driven **Tetris solver** powered by evolutionary search—see it [here](https://github.com/NitaiEdelberg/Ai-Tetris)
