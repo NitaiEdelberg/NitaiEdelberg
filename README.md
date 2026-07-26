@@ -43,7 +43,7 @@
 | **Tutti** – live band rehearsal <br />[Live](https://jam-oveo.netlify.app) | React · Node · Socket.IO · Postgres | The session leader picks a song and it opens **in sync** on everyone’s screen — chords for players, lyrics for singers. Shareable room codes |
 | **JailbreakAPI** – prompt‑injection guard <br />[Live](https://jailbreak-api-frontend.onrender.com) | Python · FastAPI · scikit‑learn | Screens prompts for jailbreak / injection attempts with a regex layer + an ML classifier, and returns a per‑scanner breakdown |
 | **Movie Watchlist** <br />[Live](https://nitaiswebsite.onrender.com) | React · Node · MongoDB | Full‑stack watchlist with ratings and notes. AI recommendations are grounded in a real movie database, so it never invents films |
-| **DevBoard** | React · Express · SQLite | A clean, readable full‑stack Kanban board |
+| **DevBoard** <br />[Code](https://github.com/NitaiEdelberg/devboard) | React · Express · SQLite | A clean, readable full‑stack Kanban board (with API + component tests) |
 | **TFTP Server / Client** | Java | RFC‑compliant multi‑client TFTP with uploads, downloads & live broadcast notifications |
 | **Multithreaded Set Game** | Java | Concurrent game engine using thread pools & locks |
 
